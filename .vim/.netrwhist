@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/liuyong/develop/work/study-tribe/webapp/studytribe-project'
+let g:netrw_dirhist_2='/Users/liuyong/develop/work/pecker-web'
+let g:netrw_dirhist_3='/Users/liuyong/develop/work/webtracker-sourcecode/trunk'
+let g:netrw_dirhist_4='/Users/liuyong/Myhome'
+let g:netrw_dirhist_5='/Users/liuyong/develop/work/study-tribe/webapp/studytribe-project/studytribe'
+let g:netrw_dirhist_6='/Users/liuyong/Myhome/.git'
