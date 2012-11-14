@@ -1,4 +1,4 @@
-bin
+Home
 ===
 
-自己的bin目录
+自己的Home目录
