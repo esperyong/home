@@ -1,2 +1,2 @@
 #! /bin/sh -
-java -jar /Users/liuyong/software/resin-3.1.12/lib/resin.jar
+java -jar $HOME/software/resin-3.1.12/lib/resin.jar
